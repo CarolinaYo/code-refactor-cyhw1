@@ -75,7 +75,7 @@ main {
     margin-left: 20px;
 }
 
-.main-cotent {
+.main-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,7 +111,7 @@ main {
     color: #ffffff;
 } */
 
-.main-cotent img {
+.main-content img {
     max-height: 200px;
 }
 
@@ -127,7 +127,7 @@ main {
     max-height: 200px;
 } */
 
-.main-cotent h2 {
+.main-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
