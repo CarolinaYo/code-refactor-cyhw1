@@ -17,7 +17,7 @@ My initial chalenge was my limited familiarity of the Html tags. What help me tr
 My first approach in this assignment is to apply proper semantic tags to the structure on the HTML. I applied semantic tags such as **header, main, section, aside, footer**, inplace of the general **div** tags and then moved on to the details such as adding a description to all of the images using the alt attribute and cleaning improper code.  To eliminate redundancy, I created a single class that consolidate repeated class functions. For example, a new class <u>main-content</u> is to replace class search-engine-optimization, online-reputation-management and social-media-marketing, then a new class <u>side-content</u> is to replace class benefit-lead, benefit-brand, and benefit-cost. 
 Lastly, I re-organized the sequence of the HTML and CSS code and updated footer to the current year.
 
-## LINKs
+## LINKS
 
 - https://carolinayo.github.io/code-refactor-cyhw1/
 - https://github.com/CarolinaYo/code-refactor-cyhw1.git
